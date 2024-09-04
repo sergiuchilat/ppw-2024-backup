@@ -6,6 +6,8 @@ E-mail: chilatsergiu@gmail.com
 - HTML https://www.w3schools.com/html/
 
 # Tools
+## Validators
+- HTML validator https://validator.w3.org/nu/#textarea
 ## Code editors
 ### Offline
  - Visual Studio Code https://code.visualstudio.com/
