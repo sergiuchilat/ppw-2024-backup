@@ -4,8 +4,11 @@ E-mail: chilatsergiu@gmail.com
 
 # Tutorials
 - HTML https://www.w3schools.com/html/
+- CSS https://www.w3schools.com/css/
 
 # Tools
+## Utils
+- Code autocomplete https://code.visualstudio.com/docs/editor/emmet
 ## Validators
 - HTML validator https://validator.w3.org/nu/#textarea
 ## Code editors
