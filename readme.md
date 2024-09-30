@@ -2,6 +2,10 @@
 
 E-mail: chilatsergiu@gmail.com
 
+# Link to videoconference
+
+https://meet.google.com/why-hxmc-iyk
+
 # Tutorials
 - HTML https://www.w3schools.com/html/
 - CSS https://www.w3schools.com/css/
